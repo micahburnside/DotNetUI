@@ -1,0 +1,104 @@
+﻿{
+    "Name":  "DotNetTemplate",
+    "Type":  "Folder",
+    "Children":  [
+                     {
+                         "Name":  "DotNetTemplate",
+                         "Type":  "Folder",
+                         "Children":  [
+                                          {
+                                              "Name":  "Controls",
+                                              "Type":  "Folder",
+                                              "Children":  [
+                                                               {
+                                                                   "Name":  "Styles",
+                                                                   "Type":  "Folder",
+                                                                   "Children":  [
+                                                                                    {
+                                                                                        "Name":  "Utilities",
+                                                                                        "Type":  "Folder",
+                                                                                        "Children":  [
+                                                                                                         {
+                                                                                                             "Name":  "LayoutHelper.cs",
+                                                                                                             "Type":  "File"
+                                                                                                         }
+                                                                                                     ]
+                                                                                    },
+                                                                                    {
+                                                                                        "Name":  "ControlStyles.cs",
+                                                                                        "Type":  "File"
+                                                                                    },
+                                                                                    {
+                                                                                        "Name":  "ThemeManager.cs",
+                                                                                        "Type":  "File"
+                                                                                    }
+                                                                                ]
+                                                               },
+                                                               {
+                                                                   "Name":  "CustomButton.cs",
+                                                                   "Type":  "File"
+                                                               },
+                                                               {
+                                                                   "Name":  "CustomListView.cs",
+                                                                   "Type":  "File"
+                                                               },
+                                                               {
+                                                                   "Name":  "CustomWindow.cs",
+                                                                   "Type":  "File"
+                                                               }
+                                                           ]
+                                          },
+                                          {
+                                              "Name":  "Services",
+                                              "Type":  "Folder",
+                                              "Children":  [
+                                                               {
+                                                                   "Name":  "ItemService.cs",
+                                                                   "Type":  "File"
+                                                               }
+                                                           ]
+                                          },
+                                          {
+                                              "Name":  "App.xaml",
+                                              "Type":  "File"
+                                          },
+                                          {
+                                              "Name":  "App.xaml.cs",
+                                              "Type":  "File"
+                                          },
+                                          {
+                                              "Name":  "AssemblyInfo.cs",
+                                              "Type":  "File"
+                                          },
+                                          {
+                                              "Name":  "DotNetTemplate.csproj",
+                                              "Type":  "File"
+                                          },
+                                          {
+                                              "Name":  "InputDialog.cs",
+                                              "Type":  "File"
+                                          },
+                                          {
+                                              "Name":  "MainWindow.xaml",
+                                              "Type":  "File"
+                                          },
+                                          {
+                                              "Name":  "MainWindow.xaml.cs",
+                                              "Type":  "File"
+                                          }
+                                      ]
+                     },
+                     {
+                         "Name":  "DotNetTemplate-tree.json",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "DotNetTemplate.sln",
+                         "Type":  "File"
+                     },
+                     {
+                         "Name":  "DotNetTemplate.txt",
+                         "Type":  "File"
+                     }
+                 ]
+}

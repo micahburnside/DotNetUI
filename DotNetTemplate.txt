@@ -1,0 +1,21 @@
+﻿└── DotNetTemplate
+    ├── DotNetTemplate
+    │   ├── Controls
+    │   │   ├── Styles
+    │   │   │   ├── Utilities
+    │   │   │   ├── ControlStyles.cs
+    │   │   │   └── ThemeManager.cs
+    │   │   ├── CustomButton.cs
+    │   │   ├── CustomListView.cs
+    │   │   └── CustomWindow.cs
+    │   ├── Services
+    │   ├── App.xaml
+    │   ├── App.xaml.cs
+    │   ├── AssemblyInfo.cs
+    │   ├── DotNetTemplate.csproj
+    │   ├── InputDialog.cs
+    │   ├── MainWindow.xaml
+    │   └── MainWindow.xaml.cs
+    ├── DotNetTemplate-tree.json
+    ├── DotNetTemplate.sln
+    └── DotNetTemplate.txt
